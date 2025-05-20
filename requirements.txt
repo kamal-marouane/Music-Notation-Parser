@@ -1,0 +1,7 @@
+openpyxl>=3.0.0
+openpyxl-image-loader>=1.0.0
+pillow>=9.0.0
+imagehash>=4.0.0
+moviepy>=1.0.0
+pygame>=2.0.0
+python-dotenv>=0.15.0
